@@ -9,3 +9,7 @@ clean
 compile
 android:package-debug
 android:start-emulator
+clean
+compile
+android:package-debug
+android:start-emulator
