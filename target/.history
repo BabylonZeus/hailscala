@@ -1,0 +1,11 @@
+clean
+gen-idea no-classifiers
+compile
+android:package-debug
+clean
+compile
+android:package-debug
+clean
+compile
+android:package-debug
+android:start-emulator
