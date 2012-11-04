@@ -8,6 +8,7 @@ case class TypedLayout(id: Int)
 object TR {
   val textview = TypedResource[android.widget.TextView](R.id.textview)
   val button = TypedResource[android.widget.Button](R.id.button)
+  val editText = TypedResource[android.widget.EditText](R.id.editText)
  object layout {
   val main = TypedLayout(R.layout.main)
  }

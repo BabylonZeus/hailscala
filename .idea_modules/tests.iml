@@ -41,6 +41,9 @@
     <output url="file://$MODULE_DIR$/../tests/target/scala-2.9.2/classes" />
     <output-test url="file://$MODULE_DIR$/../tests/target/scala-2.9.2/test-classes" />
     <exclude-output />
+    <content url="file://$MODULE_DIR$/gen">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/../tests">
       <sourceFolder url="file://$MODULE_DIR$/../tests/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../tests/src/main/java" isTestSource="false" />

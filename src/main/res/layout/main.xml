@@ -13,5 +13,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/clickme"
-            android:id="@+id/button" android:layout_centerHorizontal="true" android:layout_alignTop="@+id/textview"/>
+            android:id="@+id/button" android:layout_alignParentLeft="true" android:layout_marginLeft="21dp"
+            android:layout_below="@+id/textview"/>
 </RelativeLayout>
