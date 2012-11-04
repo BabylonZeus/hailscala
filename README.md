@@ -169,4 +169,4 @@ ToDo :
 - find how to execute tests in intellij too
 - find how to remove warnings in binding shadow classes of Robolectric while executing tests
 - why sbt goes out of memory if executing tests twice without quitting it ?
-
+- adapt this file to be readable in html format for github
