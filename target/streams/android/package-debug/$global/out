@@ -1,8 +1,0 @@
-[0m[[0minfo[0m] [0mPackaging /home/babylonzeus/Android/workspace/hailscala/target/hailscala-0.1.apk[0m
-[0m[[0mdebug[0m] [0mUsing keystore: /home/babylonzeus/.android/debug.keystore[0m
-[0m[[0mdebug[0m] [0mPackaging hailscala-0.1.apk[0m
-[0m[[0mdebug[0m] [0m/home/babylonzeus/Android/workspace/hailscala/target/resources.apk:[0m
-[0m[[0mdebug[0m] [0m=> res/layout/main.xml[0m
-[0m[[0mdebug[0m] [0m=> AndroidManifest.xml[0m
-[0m[[0mdebug[0m] [0m=> resources.arsc[0m
-[0m[[0mdebug[0m] [0m/home/babylonzeus/Android/workspace/hailscala/target/classes.dex => classes.dex[0m

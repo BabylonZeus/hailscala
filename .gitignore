@@ -1,3 +1,7 @@
 tmp/
 project/project/target/
-
+target/scala-2.9.2/test-classes/
+target/scala-2.9.2/classes/
+target/scala-2.9.2/cache/
+target/streams/
+target/specs2-reports/

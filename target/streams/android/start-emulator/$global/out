@@ -1,2 +1,0 @@
-[0m[[0mdebug[0m] [0m/home/babylonzeus/Android/android-sdk-linux_x86/platform-tools/adb -e shell am start -a android.intent.action.MAIN -n fr.zeus.hailscala/.MainActivity[0m
-[0m[[0minfo[0m] [0mStarting: Intent { act=android.intent.action.MAIN cmp=fr.zeus.hailscala/.MainActivity }[0m
