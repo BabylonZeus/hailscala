@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mRunning Test MainActivityTest : subclass(false, org.specs2.specification.SpecificationStructure) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test Specs : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0minfo[0m] [0mPassed: : Total 3, Failed 0, Errors 0, Passed 3, Skipped 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	MainActivityTest[0m
+[0m[[0mdebug[0m] [0m	Specs[0m

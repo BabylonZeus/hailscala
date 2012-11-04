@@ -12,8 +12,8 @@
       <configuration>
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/gen" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/res" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../tests/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../tests/src/main/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/assets" />
         <option name="LIBS_FOLDER_RELATIVE_PATH" value="/libs" />
         <option name="USE_CUSTOM_APK_RESOURCE_FOLDER" value="false" />
@@ -41,10 +41,6 @@
     <output url="file://$MODULE_DIR$/../tests/target/scala-2.9.2/classes" />
     <output-test url="file://$MODULE_DIR$/../tests/target/scala-2.9.2/test-classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/gen">
-      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/gen/gen" isTestSource="false" />
-    </content>
     <content url="file://$MODULE_DIR$/../tests">
       <sourceFolder url="file://$MODULE_DIR$/../tests/src/main/scala" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../tests/src/main/java" isTestSource="false" />

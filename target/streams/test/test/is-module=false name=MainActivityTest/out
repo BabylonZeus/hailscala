@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mMainActivityTest[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0monCreate should[0m
+[0m[[0minfo[0m] [0m[32m+[0m set the content view[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mmessageEditText should[0m
+[0m[[0minfo[0m] [0m[32m+[0m contain 'world'[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mTotal for specification MainActivityTest[0m
+[0m[[0minfo[0m] [0m[34mFinished in 25 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m2 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m

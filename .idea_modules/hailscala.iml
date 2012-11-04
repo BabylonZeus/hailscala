@@ -12,8 +12,8 @@
       <configuration>
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/gen" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/res" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../src/main/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/assets" />
         <option name="LIBS_FOLDER_RELATIVE_PATH" value="/libs" />
         <option name="USE_CUSTOM_APK_RESOURCE_FOLDER" value="false" />
@@ -60,6 +60,19 @@
     <orderEntry type="library" name="org.scala-lang_scala-library_2.9.2" level="project" />
     <orderEntry type="library" scope="TEST" name="org.scalatest_scalatest_2.9.2_1.8_test" level="project" />
     <orderEntry type="library" name="android.jar" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../libsForIntelliJ" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../libsForIntelliJ" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../libsForIntelliJ" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../libsForIntelliJ" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
 

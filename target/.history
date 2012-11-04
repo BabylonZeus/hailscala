@@ -13,3 +13,24 @@ clean
 compile
 android:package-debug
 android:start-emulator
+compile
+test
+last hailscala/test:compile
+test
+last hailscala/test:compile
+test
+clean
+compile
+test
+clean
+compile
+test
+reload
+test
+clean
+compilte
+compile
+clean
+compile
+test
+~test

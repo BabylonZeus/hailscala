@@ -4,6 +4,13 @@ import Keys._
 import AndroidKeys._
 
 object General {
+
+  val libRoboSpecs = "com.github.jbrechtel" %% "robospecs" % "0.2" % "test"
+  val libMockito = "org.mockito" % "mockito-all" % "1.9.5" % "test"
+  val libSpecs2 = "org.specs2" %% "specs2" % "1.12.2" % "test"
+  val libRobolectric = "com.pivotallabs" % "robolectric" % "1.1-jar-with-dependencies" % "test"
+  val scalaTest = "org.scalatest" %% "scalatest" % "1.8" % "test"
+
   val settings = Defaults.defaultSettings ++ Seq (
     name := "hailscala",
     version := "0.1",
@@ -24,11 +31,12 @@ object General {
     AndroidManifestGenerator.settings ++
     AndroidMarketPublish.settings ++ Seq (
       keyalias in Android := "change-me",
-      libraryDependencies += "org.scalatest" %% "scalatest" % "1.8" % "test"
+      libraryDependencies ++= Seq(libRoboSpecs, libMockito, libSpecs2, libRobolectric, scalaTest)
     )
 }
 
 object AndroidBuild extends Build {
+
   lazy val main = Project (
     "hailscala",
     file("."),

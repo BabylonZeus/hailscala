@@ -1,0 +1,6 @@
+<MainActivityTest-stats timestamp="1352028183256"><stats expectations="1" examples="1" successes="1" time="81"></stats></MainActivityTest-stats>
+<MainActivityTest-results timestamp="1352029073802"><result location="scala.collection.TraversableLike (TraversableLike.scala:233)" id="1330455282"><stats expectations="1" examples="1" errors="1" time="6117"></stats></result>
+</MainActivityTest-results>
+<MainActivityTest-stats timestamp="1352029073831"><stats expectations="2" successes="1" examples="2" errors="1" time="89"><trend><stats expectations="1" examples="1" errors="1" time="89"></stats></trend></stats></MainActivityTest-stats>
+<MainActivityTest-stats timestamp="1352029795950"><stats expectations="2" examples="2" successes="2" time="26"><trend><stats errors="-1" successes="1" time="26"></stats></trend></stats></MainActivityTest-stats>
+<MainActivityTest-stats timestamp="1352029871842"><stats expectations="2" examples="2" successes="2" time="25"></stats></MainActivityTest-stats>
